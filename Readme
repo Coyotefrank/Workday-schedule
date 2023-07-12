@@ -1,4 +1,4 @@
-WOrkday schedule
+Workday schedule
 
 links to tools I used to complete this project 
 :https://chat.openai.com/?model=text-davinci-002-render-sha
@@ -9,19 +9,12 @@ And I did use quite a bit of google search
 
 
 This is a workday schedule webpage where users can view the current date and time for each workday from the time of 9AM to the time of 6PM.
-To use this app simply write in the time the event you wish to potray, example: "Clocked in", "Lunch out", "Lunch in", and "Clocked out". Once you have entered the desired input in the desired time you wish to represent click on the save icon on the right of that colum located in a blue square. The application should show the present time in the color of red and any future times in the color of green, also there is a functioning clock.
 
 
 
 
 
-
-
-
-
-
-
-
+To use this application simply write in the time the event you wish to potray, example: "Clocked in", "Lunch out", "Lunch in", and "Clocked out". Once you have entered the desired input in the desired time you wish to represent click on the save icon on the right of that colum located in a blue square. The application should show the present time in the color of red and any future times in the color of green, also there is a functioning clock.
 
 
 
